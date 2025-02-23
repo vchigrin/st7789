@@ -18,7 +18,7 @@ nb = "1.0"
 
 [dependencies.embedded-graphics-core]
 optional = true
-version = "0.3.2"
+version = "0.4.0"
 
 [dependencies.heapless]
 optional = true
